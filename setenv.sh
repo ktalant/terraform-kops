@@ -84,4 +84,7 @@ rm -rf  .terraform/terraform.tfstate
 terraform_0.11.14 init
 
 echo "########################"
-echo "Use terraform_0.122.14"
+
+echo "Use terraform_0.11.14"
+
+echo "########################"
